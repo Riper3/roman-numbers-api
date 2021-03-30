@@ -2,9 +2,9 @@
 
 A simple RESTful API which will convert an integer to its roman numeral counterpart with Laravel.
 
-#Endpoints
+# Endpoints
 
-#/numbertoroman
+## /numbertoroman
 
 Transform a number in to a roman number.
 
@@ -12,10 +12,10 @@ Body parameters:
 
 number : integer
 
-#/latestroman
+## /latestroman
 
 The latest conversions.
 
-#/toproman
+## /toproman
 
 The greatest 10 number conversions
